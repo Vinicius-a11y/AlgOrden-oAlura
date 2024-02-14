@@ -20,7 +20,8 @@ const precoLivros = [
     },
     {
         titulo: "Python",
-        preco: 20}
+        preco: 20
+    }
     ];
 
 module.exports = precoLivros
