@@ -5,7 +5,7 @@ for (let atual = 0; atual < livros.length; atual++) {
     let menor = menorValor (livros, atual)
 
     let livroAtual = livros [atual];
-    console.log()
+    console.log(`´posição atual`, atual)
     console.log(`livro Atual`, livros[atual])
     let livroMenorPreco = livros [menor];
     console.log(`livro menor preço`, livros [menor])
